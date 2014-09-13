@@ -4,7 +4,7 @@
 
 	<groupId>group</groupId>
 	<artifactId>project-parent</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.6</version>
 	<packaging>pom</packaging>
 	
 
@@ -15,7 +15,8 @@
 				<artifactId>jgitflow-maven-plugin</artifactId>
 				<version>1.0-m4.3</version>
 				<configuration>
-					<!-- see goals wiki page for configuration options -->
+					<autoVersionSubmodules>true</autoVersionSubmodules>
+					<pushReleases>true</pushReleases>
 				</configuration>
 			</plugin>
 		</plugins>
