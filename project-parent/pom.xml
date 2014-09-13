@@ -4,7 +4,7 @@
 
 	<groupId>group</groupId>
 	<artifactId>artefakt-parent</artifactId>
-	<version>1.13-SNAPSHOT</version>
+	<version>1.15-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
 
