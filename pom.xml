@@ -16,7 +16,7 @@
 				<version>1.0-m4.3</version>
 				<configuration>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
-					<pushReleases>false</pushReleases>
+					<pushReleases>true</pushReleases>
 				</configuration>
 			</plugin>
 		</plugins>
